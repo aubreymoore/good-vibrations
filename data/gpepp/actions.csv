@@ -4,3 +4,4 @@ timestamp,from_hole,to_hole,notes
 2022-05-26T10:58,4,3,recording failed; suspect device failure due to high humidity
 2022-05-28T09:23,1,1,switched to device 1
 2022-05-29T09:04,1,2,
+2022-05-30T09:51,2,3,
